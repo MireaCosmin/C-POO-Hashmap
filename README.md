@@ -1,1 +1,2 @@
-# Tema3-POO-HashMap
+# C++ POO Hashmap
+Program scris in C++ orientat pe obiecte ce implementeaza operatiile unui hashmap
